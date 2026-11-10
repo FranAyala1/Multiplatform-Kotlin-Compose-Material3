@@ -1,3 +1,4 @@
+
 This is a Kotlin Multiplatform project targeting Android, iOS, Web, Desktop.
 
 * `/composeApp` is for code that will be shared across your Compose Multiplatform applications.
@@ -20,4 +21,15 @@ If you face any issues, please report them on [GitHub](https://github.com/JetBra
 
 You can open the web application by running the `:composeApp:wasmJsBrowserDevelopmentRun` Gradle task.
 
-![image not supported](/assets/captura.PNG)
+<img width="406" height="880" alt="png" src="https://github.com/user-attachments/assets/c8f5c40d-8833-4a0f-a48f-b6e176a9045d" />
+<img width="395" height="823" alt="png2" src="https://github.com/user-attachments/assets/f9f1b755-5acc-4cda-adf0-8319a08bc26f" />
+<img width="395" height="776" alt="png1" src="https://github.com/user-attachments/assets/dcf02458-157f-4813-8388-7dd0c9952e03" />
+
+
+https://github.com/user-attachments/assets/2678d65d-989b-44ee-9a66-3c17414cd32a
+
+
+
+
+
+
